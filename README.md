@@ -25,12 +25,10 @@ Utilizo este espaço para compartilhar meus projetos acadêmicos, documentar meu
 
 ### 💻 Desenvolvimento
 
-Aqui você coloca linguagens, ferramentas e tecnologias utilizadas para desenvolver sistemas e trabalhar com dados.
-
 - SQL
 - MySQL
-- Git
-- GitHub
+- Python
+- PowerBI
 
 ### 📚 Fundamentos
 
